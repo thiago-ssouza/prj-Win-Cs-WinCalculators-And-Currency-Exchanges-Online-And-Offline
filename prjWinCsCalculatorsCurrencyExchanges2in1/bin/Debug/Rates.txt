@@ -1,0 +1,36 @@
+﻿France
+Euro
+1.02477209
+Canada
+Canadian Dollar
+0.74652311
+England
+U.K. Pound Sterling
+1.18203837
+Japan
+Japanese Yen
+0.00706683
+Brazil
+Brazilian Real
+0.18641858
+Mexico
+Mexican Peso
+0.05135875
+Peru
+Peruvian Nuevo Sol
+0.26084035
+Colombia
+Colombian Peso
+0.00020106
+Argentina
+Argentine Peso
+0.00608618
+Uruguay
+Uruguayan Peso
+0.02486823
+Venezuela
+Venezuelan Bolivar
+0.10381732
+India
+Indian Rupee
+0.01223197
