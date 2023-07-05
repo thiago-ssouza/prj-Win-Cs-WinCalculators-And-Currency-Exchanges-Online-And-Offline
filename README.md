@@ -11,6 +11,8 @@ Content:
 <br/>
 - C#
 <br/>
+- Windows Form Application
+<br/>
 - Git bash and Git
 <br/>
 <br/>
