@@ -11,12 +11,6 @@ Content:
 <br/>
 - C#
 <br/>
-- MVC - Model View Controller (Pattern)
-<br/>
-- Singleton (Pattern)
-<br/>
-- Bootstrap
-<br/>
 - Git bash and Git
 <br/>
 <br/>
