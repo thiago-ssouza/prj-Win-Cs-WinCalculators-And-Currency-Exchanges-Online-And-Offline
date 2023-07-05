@@ -20,7 +20,7 @@ Final Project - Object Oriented Programming
 <br/>
 Subject: Object Oriented Programming
 <br/>
-Third Semester: Fall 2022
+Second Semester: Fall 2022
 <br/>
 College LaSalle
 <br/>
