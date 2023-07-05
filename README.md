@@ -1,6 +1,6 @@
 # prj-Win-Cs-WinCalculators-And-Currency-Exchanges-Online-And-Offline
 <br/>
-Authors:
+Author:
 <br/>
 - Thiago Soares de Souza
 <br/>
