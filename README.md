@@ -13,7 +13,13 @@ Content:
 <br/>
 - Windows Form Application
 <br/>
-- Git bash and Git
+- Git
+<br/>
+- GitHub
+<br/>
+- OOP
+<br/>
+- Files Management
 <br/>
 <br/>
 Final Project - Object Oriented Programming
